@@ -1,0 +1,23 @@
+{
+  "name": "keyper_lock_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keith-CY/keyper_lock_scripts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keith-CY/keyper_lock_scripts/issues"
+  },
+  "homepage": "https://github.com/Keith-CY/keyper_lock_scripts#readme",
+  "dependencies": {
+    "@keyper/container": "0.1.0",
+    "@keyper/specs": "0.1.0"
+  }
+}
