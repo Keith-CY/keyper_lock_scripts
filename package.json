@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Keith-CY/keyper_lock_scripts#readme",
   "dependencies": {
-    "@keyper/container": "0.1.0",
-    "@keyper/specs": "0.1.0"
+    "@nervosnetwork/keyper-container": "0.1.0",
+    "@nervosnetwork/keyper-specs": "0.1.0"
   }
 }
